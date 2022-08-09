@@ -1,4 +1,5 @@
 # Realtime Chat Application
+npm start al servidor i npm start al client.
 
 ![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
 
